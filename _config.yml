@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar     : "matterhorn.pdf"   
+  avatar     : "matterhorn.png"   
   name       : "Jared Miller"
   bio        : "Ph.D. student in Economics at UW-Madison. My research interests are macroeconomics, family economics, and labor."
   location   : "Madison, WI"
