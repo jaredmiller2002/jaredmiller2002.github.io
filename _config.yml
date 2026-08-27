@@ -138,8 +138,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "https://jaredmiller2002.github.io/images/Jared_Headshot.jpg"
+og_description            : "Ph.D. student in Economics at UW-Madison, researching macroeconomics, family economics, and labor."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
