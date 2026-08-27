@@ -1,3 +1,8 @@
+---
+title: "Research"
+permalink: /research/
+---
+
 Working Papers
 -------------------
 **Teens' Leisure Demand: Explaining Shifts during the Smartphone Era**
