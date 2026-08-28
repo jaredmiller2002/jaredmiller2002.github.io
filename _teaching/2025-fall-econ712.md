@@ -7,4 +7,4 @@ venue: "University of Wisconsin-Madison, Department of Economics"
 date: 2025-09-01
 location: "Madison, WI"
 ---
-Fall 2025. Average student rating: 4.25/5 (12 responses).
+Fall 2025. Part of the first-year Ph.D. core sequence. Average student rating: 4.25/5 (12 responses).
